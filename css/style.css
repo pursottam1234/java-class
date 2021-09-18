@@ -1,0 +1,65 @@
+/* #myimg{
+    display:none;
+}
+
+#source, #xyz{
+background-color: dodgerblue;
+border: 1px solid black;
+color: white;
+text-align: center;
+padding: 8px;
+}
+#xyz{
+    margin-top: 1px;
+    padding: 50px;
+    display: none;
+}
+
+#mybox{
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+}
+#anim{
+    margin: 20px;
+    width: 100px; 
+}*/
+
+/* #mydiv{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+} */
+
+/* #mydiv{
+    background-color: peru;
+    margin: 5%;
+    padding: 50px;
+    color: white;
+} */
+
+
+
+#testbox{
+    padding: 5%;
+   border: 2px solid black;
+   margin: 5%;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.btn{
+    padding: 8px;
+    background-color: red;
+    border: 0px;
+    color: white;
+    margin: 5px;
+}
+.mydiv{
+    margin-top:2px;
+    float:right;
+    padding-right: 50%;
+}
